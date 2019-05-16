@@ -22,18 +22,12 @@ const About = ({ data: { profilePhoto, skillIcons, toolIcons } }) => {
           <Img fluid={profilePhoto.childImageSharp.fluid} />
         </div>
         <div className={style.content}>
-          <h1>Hi, I'm Luigi!</h1>
+          <h1>Hi, I'm Tyler!</h1>
           <h2>Software Developer</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-            cursus venenatis arcu, cursus pretium enim lacinia nec. Duis viverra
-            sagittis neque. Fusce non luctus urna. Vivamus suscipit metus ac
-            posuere egestas. Nunc a pulvinar purus. Vivamus nisi mi, fringilla
-            quis lacus et, sagittis mollis massa. Cras tempus massa quis
-            lobortis laoreet. Pellentesque metus odio, sagittis nec venenatis
-            non, maximus congue eros. Suspendisse pellentesque purus sit amet
-            ante commodo, et molestie mauris aliquet. Proin non nibh libero.
-            Fusce at nulla euismod, condimentum augue quis, convallis justo.
+            I'm a full stack web developer with experience building production applications with NGINX, Node.js and Docker.
+            Recently I've been working with serverless architecture.
+            
           </p>
           <br />
           <h2>Skills</h2>
