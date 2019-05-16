@@ -1,13 +1,13 @@
 
 module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
-  siteUrl: 'https://lgcolella.github.io',
-  siteTitle: 'Luigi Colella',
-  siteDescription: 'Logbook of a software developer',
-  author: 'lcolella',
+  siteUrl: 'https://autodidactic.netlify.com',
+  siteTitle: 'Tyler Moore',
+  siteDescription: 'Logbook of a Software Developer',
+  author: 'tyler',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
-  disqusScript: 'https://luigi-colella.disqus.com/embed.js',
+  //disqusScript: 'https://luigi-colella.disqus.com/embed.js',
   pages: {
     home: '/',
     blog: 'blog',
@@ -16,8 +16,7 @@ module.exports = {
     archive: 'archive'
   },
   social: {
-    github: 'https://github.com/lgcolella',
-    linkedin: '',
+    github: 'https://github.com/mary-tyler-moore',
     rss: '/rss.xml'
   },
   tags: {
