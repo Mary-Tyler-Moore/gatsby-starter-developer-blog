@@ -9,7 +9,7 @@ import SEO from '../../components/seo'
 import Utils from '../../utils'
 import * as style from './index.module.less'
 
-const About = ({ data: { profilePhoto, skillIcons, toolIcons } }) => {
+const About = ({ data: { profilePhoto, skillIcons, toolIcons, systemIcons } }) => {
   return (
     <Layout>
       <SEO
@@ -27,7 +27,7 @@ const About = ({ data: { profilePhoto, skillIcons, toolIcons } }) => {
           <p>
             I'm a full stack web developer with experience building production applications with NGINX, Node.js and Docker.
             Recently I've been working with serverless architecture.
-            
+
           </p>
           <br />
           <h2>Skills</h2>
@@ -129,6 +129,12 @@ const iconsNameMap = {
   nodejs: 'Node.js',
   vuejs: 'Vue.js',
   gruntjs: 'Grunt.js',
+  graphql: 'GraphQL',
+  nuxt: 'Nuxt',
+  mongo: 'MongoDB',
+  linux: 'Linux',
+  lambda: 'AWS Lambda',
+  
 }
 
 export default About

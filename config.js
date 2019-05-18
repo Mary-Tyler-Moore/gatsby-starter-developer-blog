@@ -29,8 +29,9 @@ module.exports = {
     javascript: {
       description: 'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.'
     },
-    laravel: {
-      description: 'Laravel is a PHP framework for building web applications following the MVC pattern.'
+    lambda: {
+      name: 'AWS Lambda',
+      description: 'AWS Lambda is an event-driven, serverless computing platform that runs code in response to events and automatically manages the computing resources required by that code. '
     },
     nodejs: {
       name: 'Node.js',
@@ -48,6 +49,10 @@ module.exports = {
     },
     react: {
       description: 'React is an open source JavaScript library used for designing user interfaces.'
+    },
+    graphql: {
+      name: 'GraphQL',
+      description: 'GraphQL is an open source JavaScript library.'
     },
     vuejs: {
       name: 'Vue.js',
