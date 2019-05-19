@@ -134,6 +134,14 @@ const iconsNameMap = {
   mongo: 'MongoDB',
   linux: 'Linux',
   lambda: 'AWS Lambda',
+  postgres: 'PostgresSQL',
+  i18n: 'i18n',
+  push: 'Push Notifications',
+  geo: 'Geolocation',
+  wcag: 'WCAG 2.0',
+  travis: 'Travis CI',
+  lighthouse: 'Lighthouse Audits',
+  places: 'Google Places API',
   
 }
 
