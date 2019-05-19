@@ -140,8 +140,15 @@ const iconsNameMap = {
   geo: 'Geolocation',
   wcag: 'WCAG 2.0',
   travis: 'Travis CI',
-  lighthouse: 'Lighthouse Audits',
-  places: 'Google Places API',
+  places: 'Places API',
+  lint: 'ESLint',
+  offline: 'Offline First',
+  nginx: 'NGINX',
+  pwa: 'Progressive Web Apps',
+  helmet: 'React Helmet',
+  code: 'VS Code',
+  redhat: 'redhat',
+  realtime: 'Realtime Apps'
   
 }
 
