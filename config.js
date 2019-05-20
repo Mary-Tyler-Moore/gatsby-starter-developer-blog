@@ -79,7 +79,7 @@ module.exports = {
       description: 'Github is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.'
     },
     netlify: {
-      description: 'Netlify is a San Francisco-based cloud computing company that offers hosting and serverless backend services for static websites. It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and HTTPS by default.'
+      description: 'Netlify is a cloud computing company that offers hosting and serverless backend services for static websites. It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and HTTPS by default.'
     },
     webpack: {
       name: 'Webpack',
