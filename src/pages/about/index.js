@@ -25,7 +25,7 @@ const About = ({ data: { profilePhoto, skillIcons, toolIcons, systemIcons } }) =
           <h1>Hi, I'm Tyler!</h1>
           <h2>Software Developer</h2>
           <p>
-            I'm a full stack web developer with experience building production applications with NGINX, Node.js and Docker.
+            I'm a full stack web developer with experience building production applications using Docker, Node.js and NGINX.
             Recently I've been working with serverless architecture.
 
           </p>
@@ -148,8 +148,10 @@ const iconsNameMap = {
   helmet: 'React Helmet',
   code: 'VS Code',
   redhat: 'redhat',
-  realtime: 'Realtime Apps'
-  
+  realtime: 'Realtime Apps',
+  redux: 'Redux',
+  lighthouse: 'Lighthouse Audits',
+  social: 'Social Login',
 }
 
 export default About
