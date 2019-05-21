@@ -1,5 +1,5 @@
 ---
-title: Turn a Failing Website into an A+ Application
+title: Turn a Failing Website into an A+ Progressive Web Application
 tags: [lighthouse, pwa, wcag]
 date: 2019-05-21
 path: blog/perfect-score
