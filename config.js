@@ -38,6 +38,7 @@ module.exports = {
       description: 'Sass is a stable extension to classic CSS.'
     },
     typescript: {
+      name: 'TypeScript',
       description: 'TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.'
     },
     react: {
