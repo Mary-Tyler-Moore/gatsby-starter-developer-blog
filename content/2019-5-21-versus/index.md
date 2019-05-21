@@ -4,7 +4,7 @@ tags: [lighthouse, pwa, wcag]
 date: 2019-05-21
 path: blog/perfect-score
 cover: ./preview.png
-excerpt: Achieve a perfect Lighthouse score.
+excerpt: How to achieve a perfect Lighthouse score.
 ---
 
 I will be adding content to this blog on Github using markdown:
