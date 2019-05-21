@@ -86,6 +86,14 @@ module.exports = {
       name: 'Webpack',
       description: 'Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets representing those modules.'
     },
+    lighthouse: {
+      name: 'Lighthouse Audits',
+      description: 'Lighthouse is an open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, and more.'
+    },
+    wcag: {
+      name: 'WCAG 2.0',
+      description: 'The Web Content Accessibility Guidelines (WCAG) are a set of recommendations for making Web content more accessible, primarily for people with disabilities—but also for all user agents, including highly limited devices, such as mobile phones.'
+    },
     vuejs: {
       name: 'Vue.js',
       description: 'Vue.js is a JavaScript framework for building interactive web applications.'

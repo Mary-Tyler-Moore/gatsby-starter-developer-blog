@@ -1,10 +1,10 @@
 ---
-title: Build a Blazing Fast Website Using Gatsby, React and GraphQL
-tags: [gatsby, react, graphql]
-date: 2018-10-20
-path: blog/blazing-fast-website
+title: Turn a Failing Website into an A+ Application
+tags: [lighthouse, pwa, wcag]
+date: 2019-05-21
+path: blog/perfect-score
 cover: ./preview.png
-excerpt: Get an A+ on Google Lighthouse Audits.
+excerpt: Achieve a perfect Lighthouse score.
 ---
 
 I will be adding content to this blog on Github using markdown:
