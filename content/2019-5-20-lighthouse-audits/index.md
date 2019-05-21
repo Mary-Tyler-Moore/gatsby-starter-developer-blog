@@ -1,8 +1,8 @@
 ---
-title: E-Commerce Platform Using React, GraphQL and django
-tags: [react, graphql, nodejs]
-date: 2019-05-15
-path: blog/e-commerce-using-react
+title: Build a Blazing Fast Website Using Gatsby, React and GraphQL
+tags: [gatsby,react, graphql]
+date: 2019-05-20
+path: blog/blazing-fast-website
 cover: ./preview.png
 excerpt: Everything you need to launch your next e-commerce store.
 ---
