@@ -9,5 +9,5 @@ module.exports = {
     title: config.siteTitle,
     description: config.siteDescription
   },
-  plugins: ['gatsby-plugin-offline']
+  plugins,
 }
