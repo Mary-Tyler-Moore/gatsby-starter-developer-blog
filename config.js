@@ -24,6 +24,7 @@ module.exports = {
       description: 'Angular is an open source web application platform.'
     },
     javascript: {
+      name: 'JavaScript',
       description: 'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.'
     },
     lambda: {
