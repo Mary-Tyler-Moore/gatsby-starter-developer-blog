@@ -1,5 +1,5 @@
 ---
-title: "Quick and Easy Internationalzation with i18n"
+title: "Quick and Easy Internationalization with i18n"
 tags: [i18n, gatsby, github, netlify]
 date: 2019-05-22
 path: blog/i18n
