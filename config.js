@@ -24,6 +24,7 @@ module.exports = {
       description: 'Angular is an open source web application platform.'
     },
     javascript: {
+      name: 'JavaScript',
       description: 'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.'
     },
     lambda: {
@@ -74,7 +75,7 @@ module.exports = {
     },
     gatsby: {
       name: "GatsbyJS",
-      decription: 'Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.'
+      description: 'Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.'
     },
     github: {
       description: 'Github is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.'
