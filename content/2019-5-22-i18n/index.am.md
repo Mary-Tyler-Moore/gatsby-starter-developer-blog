@@ -1,6 +1,6 @@
 ---
 title: "ፈጣን እና ቀላል ኢንተርቬንሽን ከ i18n ጋር"
-tags: [lighthouse, pwa, wcag]
+tags: [i18n, gatsby, github, netlify]
 date: 2019-05-22
 path: blog/am/i18n
 cover: ./preview.png

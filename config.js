@@ -23,6 +23,10 @@ module.exports = {
     angular: {
       description: 'Angular is an open source web application platform.'
     },
+    i18n: {
+      name: 'i18n',
+      description: 'Internationalization is the process of designing a software application so that it can be adapted to various languages and regions without engineering changes.'
+    },
     javascript: {
       name: 'JavaScript',
       description: 'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.'

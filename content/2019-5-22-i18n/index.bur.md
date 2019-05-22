@@ -1,6 +1,6 @@
 ---
 title: "i18n နှင့်အတူမြန်ဆန်လွယ်ကူနိုငျငံတကာ။"
-tags: [lighthouse, pwa, wcag]
+tags: [i18n, gatsby, github, netlify]
 date: 2019-05-22
 path: blog/bur/i18n
 cover: ./preview.png
