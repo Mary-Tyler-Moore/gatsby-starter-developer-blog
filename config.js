@@ -99,6 +99,10 @@ module.exports = {
       name: 'WCAG 2.0',
       description: 'The Web Content Accessibility Guidelines (WCAG) are a set of recommendations for making Web content more accessible, primarily for people with disabilities—but also for all user agents, including highly limited devices, such as mobile phones.'
     },
+    styled: {
+      name: 'Styled Components',
+      description: 'Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅'
+    },
     vuejs: {
       name: 'Vue.js',
       description: 'Vue.js is a JavaScript framework for building interactive web applications.'
