@@ -68,6 +68,8 @@ npm run setup
 
 * Create a new firebase project with the firebase console
 
+![Bento logo](./bento-2.png "The Bento Stack")
+
 * Once your firebase project is created, add an application by clicking the Firebase web app button. Enter an app nickname but do not check "Also set up Firebase Hosting" and click next. Copy the firebaseConfig object and replace the config variable in '/src/firebase/init.js' in bento-starter project.
 
 * Go to Side menu → Database → Create database and select Start in test mode. Now your firestore database is up.
