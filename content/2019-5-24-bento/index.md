@@ -9,7 +9,7 @@ excerpt: A quick way to get started with NoSQL and Vue.
 
 # Welcome to Bento
 
-![Bento logo](./bento-1.png "The Bento Starter logo")
+![Bento logo](./bento-2.png "The Bento Stack")
 
 ## Introduction
 
