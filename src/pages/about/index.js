@@ -152,6 +152,7 @@ const iconsNameMap = {
   redux: 'Redux',
   lighthouse: 'Lighthouse Audits',
   social: 'Social Login',
+  styled: 'Styled Components',
 
 }
 
