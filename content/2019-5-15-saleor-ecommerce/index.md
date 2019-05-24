@@ -21,14 +21,41 @@ Saleor is a rapidly-growing open source e-commerce platform that has served high
 - __Orders__: A comprehensive system for orders, dispatch and refunds
 - __Cart__: Advanced payment and tax options, with full control over discounts and promotions
 - __Payments__: Flexible API architecture allows integration of any payment method. Comes with Braintree support out of the box.
-- __Geo-adaptive__: Automatic localized pricing. Over 20 local languages. Localized checkout experience by country.
-- __SEO__: Packed with features that get stores to a wider audience
-- __Cloud__: Optimized for deployments using Docker
-- __Analytics__: Server-side Google Analytics to report e-commerce metrics without affecting privacy
+- :earth_asia: __Geo-adaptive__: Automatic localized pricing. Over 20 local languages. Localized checkout experience by country.
+- :mag: __SEO__: Packed with features that get stores to a wider audience
+- :cloud: __Cloud__: Optimized for deployments using Docker
+- :bar_chart: __Analytics__: Server-side Google Analytics to report e-commerce metrics without affecting privacy
+
+
+🤘 Vue.js : front-end framework
+🔧 Vue-cli : standard tooling for vue.js development
+🔁 Vuex : state management
+💾 Firestore : cloud NoSQL Database
+🏠 Firebase hosting : fast and secure web hosting
+👤 Firebase authentication : for easy authentication
+📱 PWA : progressive web app support
+💄 Prettier : code formatting rules
+🚨 Eslint : control code quality
+✅ Jest : unit testing
+✅ Cypress : e2e testing
+🔍 Vue head : meta description per page
+📄 prerender spa plugin : pages prerendering
+💚 circleci : continuous integration/deployment
+📦 bundlesize : control your javascript bundles sizes
+App Features
+
+👤 Google authentication
+📴 Offline support (dynamic & static caching)
+🆕 New version available prompt on new app deployments
+➕ Add to home screen prompt for ios & android
+↩️ Smart redirection for auth protected routes
+✨ Products page example to demonstrate app data management with firestore and vuex
+💪 Better PWA support for all browsers with PW
+
 
 
 ```typescript
-import { Observable } from 'rxjs';
+import { Observable } from 'rxjs'
 
 const observable = new Observable(subscriber => {
   subscriber.next(1);
