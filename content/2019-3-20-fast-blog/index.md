@@ -73,6 +73,27 @@ https://emotion.sh/docs/introduction
 
 https://storefront-demo.e-com.plus
 
+
+
+https://coolors.co
+
+https://colorsafe.io
+
+https://firebase.google.com/docs/cloud-messaging/
+
+https://cloudinary.com/blog/an_eye_opening_talk_building_apps_for_the_next_billion_users_in_africa
+
+https://cssgradient.io/ 
+
+https://github.com/rhzoha/easy-events
+
+https://github.com/Shyam-Chen/Vue-Play
+
+https://github.com/kefranabg/bento-starter
+
+https://github.com/reedbarger/geopins
+
+
 ￼
 ￼
 ￼
