@@ -7,7 +7,11 @@ cover: ./preview.png
 excerpt: Get an A+ on Google Lighthouse Audits.
 ---
 
-I will be adding content to this blog on Github using markdown:
+Hello Roberto, I think GatsbyJS is awesome. Here is a link to find out more: https://www.gatsbyjs.org/
+
+
+
+
 
 ```typescript
 import { Observable } from 'rxjs';
