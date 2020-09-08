@@ -1,7 +1,7 @@
 ---
 title: "Serve Up a Full Stack App with Bento Starter"
 tags: [vuejs, pwa, firebase, lighthouse]
-date: 2019-05-24
+date: 2020-05-24
 path: blog/bento
 cover: ./preview.png
 excerpt: A quick way to get started with NoSQL and Vue.

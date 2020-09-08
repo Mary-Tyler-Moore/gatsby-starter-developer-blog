@@ -1,7 +1,7 @@
 ---
 title: E-Commerce Platform Using React, GraphQL and django
 tags: [react, graphql, nodejs]
-date: 2019-05-23
+date: 2020-05-23
 path: blog/e-commerce-using-react
 cover: ./preview.png
 excerpt: Everything you need to launch your next e-commerce store.

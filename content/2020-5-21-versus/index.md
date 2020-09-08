@@ -1,7 +1,7 @@
 ---
 title: Turn a Failing Website into an A+ Progressive Web Application
 tags: [lighthouse, pwa, wcag]
-date: 2019-05-21
+date: 2020-05-21
 path: blog/perfect-score
 cover: ./preview.png
 excerpt: How to achieve a perfect Lighthouse score.

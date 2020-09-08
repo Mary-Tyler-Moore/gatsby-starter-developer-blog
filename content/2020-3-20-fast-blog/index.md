@@ -1,7 +1,7 @@
 ---
 title: Build a Blazing Fast Website Using Gatsby, React and GraphQL
 tags: [gatsby, react, graphql, styled]
-date: 2019-03-20
+date: 2020-03-20
 path: blog/blazing-fast-website
 cover: ./preview.png
 excerpt: Get an A+ on Google Lighthouse Audits.
